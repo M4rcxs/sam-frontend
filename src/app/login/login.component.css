@@ -1,0 +1,27 @@
+#logoBig {
+    width: 80%;
+    height: auto;
+    margin-top: 25%;
+    margin-left: 10%;
+}
+
+.form {
+    display: block;
+    width: 80%;
+    margin: 40px auto;
+}
+
+.background {
+    height: 100% !important;   
+}
+.background2 {
+    padding-bottom: 0px !important;
+}
+
+#cadastrarAluno{
+    display: block;
+    color: #F5A607;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
